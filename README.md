@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Benzinga is a finance content ecosystem that makes information easier to consume.
+
+
+![fire gif](https://github.com/user-attachments/assets/2877338e-bc6f-426f-94dd-ac5bc6a10371)
+
 <!--
 **senzingae/senzingae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
